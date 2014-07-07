@@ -57,7 +57,7 @@ The objective of this project is to:
 		* [Government APIs](https://www.data.gov/developers/apis)  		* [Non profit APIs](http://projects.propublica.org/nonprofits/)
 		* [Sunlight Foundation APIs](http://sunlightfoundation.com/api/)
 		* [Yoda Speak API](https://www.mashape.com/ismaelc/yoda-speak#!documentation)
-	* How often does API contents change? Does the data returned from the API changes once a decade? 
+	* How often does the API content change? Does the data returned from the API change once a decade? 
 	
 		* For example, US Census data changes once every ten years.  
 			 It would be error prone, wasteful and inefficient to request data for every HTTP Request handled by Rails.
@@ -78,7 +78,7 @@ The objective of this project is to:
 
 	* How often does the structure of the data returned from the API change?
 	
-		If the data from the API changes it's structure you may have to rewrite code that depends on this structure.  
+		If the data from the API changes it's structure you may have to rewrite code that depends on this structure.  __(Probably not a concern in this project)__
 		  
 	* How good is the API documentation?  
 	   
@@ -86,7 +86,9 @@ The objective of this project is to:
 	     
 	* Is there a Ruby Gem that can be used to access the data?  
 	* Is there a way to get a data dump that can be used to populate you local DB?  
-		If a data dump is available you can populate you app's DB and avoid using an API and it's problems. But, you'll have to periodically sync you DB with remote data.
+		If a data dump, CSV file maybe, is available you can populate you app's DB and avoid using an API and it's problems.  
+		
+		But, you'll have to periodically sync you DB with remote data.
   	    
   	    [Open Government Data](https://www.data.gov/)  
   	    
@@ -107,8 +109,9 @@ Final project deliverables:
 
 I want to create a Movie Review site. Guess users can see reviews. Registered users can write a review and professional movie critics can write a detailed review and associate other _"like"_ movies. 
 
-* [User Stories](user_stories.md)  
-* [Application Entities/Classes/Models](entities.md)  
+* [Example User Stories](user_stories.md)  
+* [Example Application Entities/Classes/Models](entities.md)  
+* Example Object/Domain Model (TBD)
 
 ## Suggested TIMELINE
 
