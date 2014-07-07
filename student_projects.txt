@@ -1,0 +1,67 @@
+Alex - list books you want to read in order. Amazon API to get the
+book. Check them off as read. Other users can do the same and share
+books. Check out the Good Reads API.
+
+Jodi - What happened in boston today. Pull from various sources to
+find out what happened. OR Social networking for you family.
+
+Devin - Browse for Recipes. Modify them and generate a shopping
+list. OR pet rescue site, get info on dogs and choose to adopt.
+
+
+Nick - Congressional data. Pull from transcripts, campain. Lookup by
+state, policitian. Will show main issues polictician or state. NYTimes
+newswire api. Campaign finance data. <sounds unclear set of
+functionality>
+
+
+Ben - Rotten Tomatoes like app. - Coordinate people/friends to see a movie
+together.
+
+
+Sarah - Real New year resolution site - Traderfy API allows to assess and
+based on personality type generate a list of possible resolutions. 
+
+Zack - Store Recipes, sub recipes inventory mgmt. quanities how much
+is used, when to order, etc.
+
+Katryn - Likes aggregator, movie, beers, etc in a simple to use
+interface. Really easy to use, clean and functionality. Secondary user 
+
+Kaga - Travel app for business. Info on cities. Startups in city, interested
+
+
+Jake - Manage a meal with friends. You create an event, invite guests,
+comments of what to eat, Yummly api.
+
+brian - Reminder app. Reminder via text message. Twillio. 
+
+Clara - Directod at college students. Find people to have lunch. Each
+person will say what they want to be asked about.
+
+Julie - Let people search for independent coffee shops in their
+area. Rating coffee shops based on whether is quiet, music, ....
+
+Blair - Provides team driven motivation for managing your diet. Count
+calories. Can send message to others on the team.
+
+Jodi - How to safe under the sun. Get the weather, time your out and
+sun strength. Send text when/what you should apply for protection.
+
+Max - Music discovery app. Soundcloud api. Enter artist. Save your
+searches. Use Rdio api look thru rdio api. 
+
+Eric - social environment for stocks. Anytime you buy, sell it will
+create a post about the stock. And some recent info about the stock
+from a feed. 
+
+Dermout - Yelp for sports facilities. 
+
+
+
+
+
+
+
+
+

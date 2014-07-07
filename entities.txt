@@ -8,7 +8,7 @@ image, trailer.
 Cast - 
 Director -
 User Review - comment, rating (1-4)
-Critid Review - comment, rating (1-4), similar movies, review categories(?)
+Critic Review - comment, rating (1-4), similar movies, review categories(?)
 Avg Review
 Genre
 Search - category/genre, title, rating, released year

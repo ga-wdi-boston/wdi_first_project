@@ -1,21 +1,20 @@
 (Home Page)
 Given I'm a guest user
 When I go to the home page
-I should see the last 10 released movies.
+Then I should see the last 10 released movies.
 
 Given I'm a guest user
 When I go to the home page
-And I should be able to navigate to the older movies in groups of 10.
+Then I should be able to navigate to the older movies in groups of 10.
 
 Given I'm a guest user
-When I view one movie on the home page.
-I can see the title, release year, short description, rating and duration.
+When I look at a single movie on the home page
+Then I can see the title, release year, short description, rating and duration.
 
 Given I'm a guest user
-When I view one movie on the home page.
+When I look at a single movie on the home page
 Then I can view an image from the movie.
 
-<<video player>> <<api for movie preview>>
 Given I'm a guest user
 When I view one movie on the home page.
 Then I can see a trailer of the movie.
