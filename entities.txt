@@ -1,0 +1,15 @@
+GuestUser - email, password
+Critic - email, password
+Site Admin - email, password
+User Profile - full name, address, phone
+Address - street, city, state, zip
+Movie - title, release year, short desc, full desc, rating, duration,
+image, trailer.
+Cast - 
+Director -
+User Review - comment, rating (1-4)
+Critid Review - comment, rating (1-4), similar movies, review categories(?)
+Avg Review
+Genre
+Search - category/genre, title, rating, released year
+Netflix Queue - API Url, token/keys, position

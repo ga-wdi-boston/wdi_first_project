@@ -1,0 +1,10 @@
+A app that will allow users the ability to create reviews for
+movies. 
+
+The user will see the most recently released movies and can preview
+them, find similar movies, add them to their netflix queue.
+
+A critic can review movies and add links to generate revenue.
+
+A movie publisher/producer can create a video player for a movie
+preview and manage video ads. 
